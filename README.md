@@ -1,3 +1,33 @@
+## Demo 
+
+[LINK](https://ecommerce-store-alpha-ten.vercel.app/)
+
+
+## Screenshot
+
+![Image not found](https://github.com/anishredddy/ecommerce-store/blob/main/ScreenShots/Screenshot%20(67).png)
+![Image not found](https://github.com/anishredddy/ecommerce-store/blob/main/ScreenShots/Screenshot%20(68).png)
+![Image not found](https://github.com/anishredddy/ecommerce-store/blob/main/ScreenShots/Screenshot%20(69).png)
+![Image not found](https://github.com/anishredddy/ecommerce-store/blob/main/ScreenShots/Screenshot%20(70).png)
+![Image not found](https://github.com/anishredddy/ecommerce-store/blob/main/ScreenShots/Screenshot%20(71).png)
+
+## Frameworks
+headlessui
+
+hookform
+
+axios
+
+clsx
+
+lucide-react
+
+react-hook-form
+
+react-hot-toast
+
+query-string
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
