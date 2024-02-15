@@ -1,6 +1,6 @@
 ## Demo 
 
-[LINK](https://ecommerce-store-alpha-ten.vercel.app/)
+[LINK](https://ecommerce-store-pink-kappa.vercel.app/)
 
 
 ## Screenshot
